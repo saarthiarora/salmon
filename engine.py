@@ -1,7 +1,7 @@
 import chess
 import random
 
-class ChessAI:
+class SalmonAI:
 
     def __init__(self, board, color, max_depth, enable_entropy=True):
         self.board = board
